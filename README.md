@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngelRMG12
 - 👀 I’m interested in videogames, movies, AI
 - 🌱 I’m currently learning System Engineering 
-- 💞️ I’m looking to collaborate on Idk
+- 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me : angel123rosari@gmail.com
 
 <!---
