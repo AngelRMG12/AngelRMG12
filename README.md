@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AngelRMG12
-- 👀 I’m interested in videogames, movies, AI
-- 🌱 I’m currently learning System Engineering 
-- 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me : angel123rosari@gmail.com
-
-<!---
-AngelRMG12/AngelRMG12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @AngelRMG12, a Salesforce Developer.
+- 🎓 I have a bachelor’s degree in Computer Systems Engineering.
+- 🏅 Salesforce certifications: Platform App Builder and Agentforce Specialist.
+- 👀 I’m interested in video games, movies, and AI.
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 You can reach me at angel123rosari@gmail.com.
